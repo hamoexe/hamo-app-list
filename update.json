@@ -1,9 +1,9 @@
 {
   "app_name": "STYR1X",
   "icon": "https://hamo.pages.dev/icon.png",
-  "version_code": 163,
+  "version_code": 164,
   "version_name": "0.15.4 beta",
   "whats_new": "- Fixed some bugs\n- Improvements, as always",
   "force": false,
-  "download_url": "https://github.com/hamoexe/hamo-app-list/releases/download/v163/STYR1X-0.15.4-beta.apk"
+  "download_url": "https://github.com/hamoexe/hamo-app-list/releases/download/v164/STYR1X-0.15.4-beta.apk"
 }
