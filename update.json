@@ -1,9 +1,9 @@
 {
   "app_name": "STYR1X",
   "icon": "https://hamo.pages.dev/icon.png",
-  "version_code": 145,
-  "version_name": "0.14.2 beta",
-  "whats_new": "- Added settings\n- Fixed some visuals\n- Bugs fixed",
+  "version_code": 159,
+  "version_name": "0.14.19 beta",
+  "whats_new": "- New iPadView compatibility test\n- Smoother card animations\n- Arabic and Kurdish translations for new screens\n- Fixed a crash on the permission screen",
   "force": false,
-  "download_url": "https://github.com/hamoexe/hamo-app-list/releases/download/v145/STYR1X-0.14.2-beta.apk"
+  "download_url": "https://github.com/hamoexe/hamo-app-list/releases/download/v159/STYR1X-0.14.19-beta.apk"
 }
